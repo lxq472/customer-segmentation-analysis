@@ -11,7 +11,8 @@ Identify high-value customers with low engagement to support retention and targe
 - Business-oriented visualization in Tableau
 
 ## Dashboard
-👉 Tableau Public link: [
-](https://public.tableau.com/app/profile/nikolaos.giannoulis/viz/Book1_17701313958800/Dashboard1?publish=yes)## Tools
+👉 Tableau Public link: (https://public.tableau.com/app/profile/nikolaos.giannoulis/viz/Book1_17701313958800/Dashboard1?publish=yes)
+
+## Tools
 - Python (pandas, numpy)
 - Tableau Public
