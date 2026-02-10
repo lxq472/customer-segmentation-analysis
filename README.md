@@ -1,6 +1,7 @@
 # Customer Segmentation Analysis
 **End-to-End Data Analytics Project | Python · SQL · Tableau · BI**
-This project performs customer-level segmentation based on total revenue and purchase frequency.
+
+## This project performs customer-level segmentation based on total revenue and purchase frequency.
 
 ## Objective
 Identify high-value customers with low engagement to support retention and targeting decisions.
