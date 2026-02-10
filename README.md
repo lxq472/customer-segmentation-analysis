@@ -1,5 +1,5 @@
 # Customer Segmentation Analysis
-**End-to-End Data Analytics Project | Python · SQL · Tableau · BI**
+**Python · Tableau**
 
 ## This project performs customer-level segmentation based on total revenue and purchase frequency.
 
